@@ -4,7 +4,7 @@ A program tároljon el egy szót egy változóban, majd írja ki egymás alá a 
 
 '''
 
-szo = "macska"
+szo = "piton"
 
 for betu in szo:
   print(betu)
